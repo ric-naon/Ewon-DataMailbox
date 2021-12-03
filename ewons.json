@@ -1,0 +1,60 @@
+{
+    "success": true,
+    "ewons": [
+        {
+            "id": 1140597,
+            "name": "Ameriplex_Mondelez Count Fill",
+            "lastSynchroDate": "2021-11-24T19:31:51Z"
+        },
+        {
+            "id": 1135666,
+            "name": "Ameriplex_13.00-Count-Fill-01",
+            "lastSynchroDate": "2021-11-24T19:20:56Z"
+        },
+        {
+            "id": 1157408,
+            "name": "Batavia_14.00-Stk23mm-Fill-01",
+            "lastSynchroDate": "2021-11-24T19:32:12Z"
+        },
+        {
+            "id": 1192208,
+            "name": "Batavia_15.00-Stk23mm-Fill-01",
+            "lastSynchroDate": "2021-11-24T19:28:44Z"
+        },
+        {
+            "id": 1099264,
+            "name": "Ameriplex_13.00-Count-Fill-02",
+            "lastSynchroDate": "2021-11-24T19:32:45Z"
+        },
+        {
+            "id": 1084063,
+            "name": "Ameriplex_13.00-Count-Fill-03",
+            "lastSynchroDate": "2021-11-24T18:56:44Z"
+        },
+        {
+            "id": 1141388,
+            "name": "Grand Prairie_Cannister-Filling-01 (Rm 2)",
+            "lastSynchroDate": "2021-11-24T19:32:24Z"
+        },
+        {
+            "id": 1155742,
+            "name": "Ameriplex_13.00-Count-Fill-04",
+            "lastSynchroDate": "2021-11-24T19:32:24Z"
+        },
+        {
+            "id": 1191709,
+            "name": "Batavia_Pmi Cartoner_Room 7",
+            "lastSynchroDate": "2021-11-24T19:30:10Z"
+        },
+        {
+            "id": 1141813,
+            "name": "Grand Prairie_Puck-Filling-01 (Rm 9)",
+            "lastSynchroDate": "2021-11-24T18:34:32Z"
+        },
+        {
+            "id": 1149945,
+            "name": "Kraft Line 1 NWI Daniel Burnham",
+            "lastSynchroDate": "2021-11-24T19:33:10Z"
+        }
+    ]
+}

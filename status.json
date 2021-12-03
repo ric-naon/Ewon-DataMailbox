@@ -1,0 +1,62 @@
+{
+    "historyCount": 1061924,
+    "ewonsCount": 14,
+    "ewons": [
+        {
+            "id": 1084063,
+            "name": "Ameriplex_13.00-Count-Fill-03",
+            "historyCount": 179771,
+            "firstHistoryDate": "2021-11-17T17:17:15Z",
+            "lastHistoryDate": "2021-11-29T11:06:53Z"
+        },
+        {
+            "id": 1135666,
+            "name": "Ameriplex_13.00-Count-Fill-01",
+            "historyCount": 195245,
+            "firstHistoryDate": "2021-11-17T17:56:13Z",
+            "lastHistoryDate": "2021-11-29T11:17:05Z"
+        },
+        {
+            "id": 1099264,
+            "name": "Ameriplex_13.00-Count-Fill-02",
+            "historyCount": 32510,
+            "firstHistoryDate": "2021-11-17T17:55:43Z",
+            "lastHistoryDate": "2021-11-29T07:00:23Z"
+        },
+        {
+            "id": 1149945,
+            "name": "Kraft Line 1 NWI Daniel Burnham",
+            "historyCount": 723,
+            "firstHistoryDate": "2021-11-18T05:11:17Z",
+            "lastHistoryDate": "2021-11-29T11:17:51Z"
+        },
+        {
+            "id": 1141388,
+            "name": "Grand Prairie_Cannister-Filling-01 (Rm 2)",
+            "historyCount": 523567,
+            "firstHistoryDate": "2021-11-17T18:01:09Z",
+            "lastHistoryDate": "2021-11-29T11:22:10Z"
+        },
+        {
+            "id": 1155742,
+            "name": "Ameriplex_13.00-Count-Fill-04",
+            "historyCount": 100729,
+            "firstHistoryDate": "2021-09-23T12:08:53Z",
+            "lastHistoryDate": "2021-11-29T11:16:34Z"
+        },
+        {
+            "id": 1140597,
+            "name": "Ameriplex_Mondelez Count Fill",
+            "historyCount": 23805,
+            "firstHistoryDate": "2021-11-17T17:59:25Z",
+            "lastHistoryDate": "2021-11-29T11:17:25Z"
+        },
+        {
+            "id": 1157408,
+            "name": "Batavia_14.00-Stk23mm-Fill-01",
+            "historyCount": 5574,
+            "firstHistoryDate": "2021-11-17T17:58:42Z",
+            "lastHistoryDate": "2021-11-29T11:13:41Z"
+        }
+    ]
+}
